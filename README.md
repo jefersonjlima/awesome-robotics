@@ -1,4 +1,4 @@
-# Awesome Robotics 
+# Awesome Robotics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Simulator for autonomous vehicles, Engine, Optimal Control, AI & Research
 
