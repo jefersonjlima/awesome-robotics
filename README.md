@@ -16,6 +16,17 @@ Simulator for autonomous vehicles, Engine, Optimal Control, AI & Research
 * [Thesis] [Blockchain-based IoT Platform for Autonomous Drone Operations Management](https://hal.archives-ouvertes.fr/hal-02903033/file/Blockchain_based_IoT_Platform_for_Autonomous_Drone_Operations_Management.pdf)
 * [Article] [Blockchain-Empowered Multi-Robot Collaboration to Fight COVID-19 and Future Pandemics](https://ieeexplore.ieee.org/document/9240034)
 
+## IoT and BlockChain
+
+* [Applicability of Blockchain smart contracts in securing Internet and IoT: A systematic literature review](https://www-sciencedirect.ez48.periodicos.capes.gov.br/science/article/pii/S1574013720304603)
+* [An Attribute-Based Access Control for IoT Using Blockchain and Smart Contracts](https://www.mdpi.com/2071-1050/13/19/10556/htm)
+* [Blockchain and smart contract for IoT enabled smart agriculture](https://rnp-primo.hosted.exlibrisgroup.com/permalink/f/vsvpiv/TN_cdi_doaj_primary_oai_doaj_org_article_4da92cb2ced5491299abf971ac20a1b7)
+* [Data Sharing System Integrating Access Control Mechanism using Blockchain-Based Smart Contracts for IoT Devices](https://www.mdpi.com/2076-3417/10/2/488/htm)
+
+
+## Physics Simulator
+
+* [Bullet Physics SDK](https://github.com/bulletphysics/bullet3)
 
 # Databset
 
