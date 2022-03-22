@@ -24,7 +24,7 @@ Simulator for autonomous vehicles, Engine, Optimal Control, AI & Research
 
 * [Article] [Applicability of Blockchain smart contracts in securing Internet and IoT: A systematic literature review](https://www-sciencedirect.ez48.periodicos.capes.gov.br/science/article/pii/S1574013720304603)
 * [Article] [An Attribute-Based Access Control for IoT Using Blockchain and Smart Contracts](https://www.mdpi.com/2071-1050/13/19/10556/htm)
-* [Blockchain and smart contract for IoT enabled smart agriculture](https://rnp-primo.hosted.exlibrisgroup.com/permalink/f/vsvpiv/TN_cdi_doaj_primary_oai_doaj_org_article_4da92cb2ced5491299abf971ac20a1b7)
+* [Article] [Blockchain and smart contract for IoT enabled smart agriculture](https://rnp-primo.hosted.exlibrisgroup.com/permalink/f/vsvpiv/TN_cdi_doaj_primary_oai_doaj_org_article_4da92cb2ced5491299abf971ac20a1b7)
 * [Article] [Data Sharing System Integrating Access Control Mechanism using Blockchain-Based Smart Contracts for IoT Devices](https://www.mdpi.com/2076-3417/10/2/488/htm)
 
 
