@@ -5,7 +5,11 @@ Simulator for autonomous vehicles, Engine, Optimal Control, AI & Research
 
 ## Point Cloud
 
-* [Open3D-ML](http://www.open3d.org/)
+### Tools
+* [Point Cloud Library](https://github.com/PointCloudLibrary/pcl)
+* [Open3D-ML](https://github.com/isl-org/Open3D-ML)
+
+### Examples
 * [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://github.com/QingyongHu/RandLA-Net)
 
 ## Robot as a Service (RaaS)
@@ -18,18 +22,19 @@ Simulator for autonomous vehicles, Engine, Optimal Control, AI & Research
 
 ## IoT and BlockChain
 
-* [Applicability of Blockchain smart contracts in securing Internet and IoT: A systematic literature review](https://www-sciencedirect.ez48.periodicos.capes.gov.br/science/article/pii/S1574013720304603)
-* [An Attribute-Based Access Control for IoT Using Blockchain and Smart Contracts](https://www.mdpi.com/2071-1050/13/19/10556/htm)
+* [Article] [Applicability of Blockchain smart contracts in securing Internet and IoT: A systematic literature review](https://www-sciencedirect.ez48.periodicos.capes.gov.br/science/article/pii/S1574013720304603)
+* [Article] [An Attribute-Based Access Control for IoT Using Blockchain and Smart Contracts](https://www.mdpi.com/2071-1050/13/19/10556/htm)
 * [Blockchain and smart contract for IoT enabled smart agriculture](https://rnp-primo.hosted.exlibrisgroup.com/permalink/f/vsvpiv/TN_cdi_doaj_primary_oai_doaj_org_article_4da92cb2ced5491299abf971ac20a1b7)
-* [Data Sharing System Integrating Access Control Mechanism using Blockchain-Based Smart Contracts for IoT Devices](https://www.mdpi.com/2076-3417/10/2/488/htm)
+* [Article] [Data Sharing System Integrating Access Control Mechanism using Blockchain-Based Smart Contracts for IoT Devices](https://www.mdpi.com/2076-3417/10/2/488/htm)
 
 
 ## Physics Simulator
 
 * [Bullet Physics SDK](https://github.com/bulletphysics/bullet3)
+* [MuJoCo Physics](https://github.com/deepmind/mujoco)
 
-# Databset
+# Databases
+* [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
+* [semantic-kitti](http://www.semantic-kitti.org/)
 
 
-# References
-* [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
